@@ -13,7 +13,12 @@ namespace HelloWorld
                 Console.WriteLine("Hello ITI");
 
             }
-            static void Main(string[] args)
+            public static void printHelloGIT()
+            {
+                Console.WriteLine("Hello GIT");
+
+            }
+        static void Main(string[] args)
             {
                 printHelloITI();
 
